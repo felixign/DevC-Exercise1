@@ -1,0 +1,32 @@
+html, body{
+    background-color: khaki;
+}
+
+.container{
+    background-color: black;
+}
+
+
+.col{
+    color: white;
+    border: 1px solid;
+    border-color: khaki;
+    font-family: 'Nanum Gothic', sans-serif;   
+}
+
+.row{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+.heading{
+    font-family: 'Notable', sans-serif;
+    color:khaki;
+}
+
+img{
+    width:200px;
+    align-items: center;
+    border: 1px solid;
+    border-color: khaki;
+    
+}
